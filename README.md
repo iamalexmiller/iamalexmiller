@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital marketing
 - 🌱 I’m currently learning digital marketing
 - 💞️ I’m looking to collaborate on partner
-- 📫 How to reach me iamalexmillerpk@gmail.com
+- 📫 How to reach me https://laptopsadviser.com
 
 <!---
 iamalexmiller/iamalexmiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
